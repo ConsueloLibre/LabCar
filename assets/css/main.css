@@ -183,3 +183,11 @@ h5{
 .copy{
 
 }
+input#inputEmail3  {
+    background-color: transparent;
+    color: white;
+}
+input#inputPassword3 {
+    background-color: transparent;
+}
+input::placeholder{color:white!important;}
