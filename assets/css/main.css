@@ -1,0 +1,185 @@
+header{
+  background-image: url(../images/taxi.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position:bottom;
+}
+.drive{
+  background-image: url(../images/conduce.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position:center;
+}
+.lab{
+  margin-top: 4vh;
+}
+.square{
+  background: #ffbe00;
+  margin-top: 20vh;
+  color: white;
+  /*line-height:0.1;*/
+  padding: 2vh;
+}
+.sq{
+
+  padding-left: 5vh;
+  /*line-height: 0.3;*/
+}
+.consult{
+text-align: left;
+
+}
+h4{
+  padding-left: 5vh;
+
+}
+h3{
+  font-size: 31px;
+}
+p {
+    font-size: 22px;
+}
+hr{
+  width: 100px;
+  height:1px;
+  background: white;
+  text-align: left;
+}
+#litle{
+text-align: center;
+}
+.btn{
+  margin-left: 5vh;
+}
+.ap{
+  background:#ffbe00;
+  color:white;
+}
+.col-md-10 {
+    border: solid white 1px;
+    margin-top: 10vh;
+}
+.iphone {
+
+    padding-top: 11vh;
+}
+.col-md-5.pull-right {
+    line-height: 0.8;
+    margin-top: 13vh;
+}
+.row{
+      padding-bottom: 5vh;
+}
+.form-control{
+  width: 70%;
+}
+.transparent {
+    padding-left: 7vh;
+    padding-top: 15vh;
+    padding-bottom: 48vh;
+    color: white;
+    background-color: rgba(7, 7, 8, 0.5);
+
+}
+.transparent_2 {
+    padding-left: 7vh;
+    padding-top: 15vh;
+    padding-bottom: 48vh;
+    color: white;
+    background-color: rgba(7, 7, 8, 0.5);
+    text-align:
+}
+.dri{
+  font-size: 131%;
+}
+.col-md-6.col-sm-11.col-xs-11.hidden-lg.hidden-xl.tar {
+    margin-left: 5%;
+}
+button.btn.btn-warning {
+    margin-left: 0vh;
+}
+.tarif{
+  background:#ffbe00;
+  color:white;
+
+}
+label{
+  border: white;
+  background: none;
+}
+.map {
+    width: 61%;
+    border: double 1vh;
+}
+button.btn.btn-warning {
+    width: 60%;
+    text-align: left;
+    margin: 6px;
+}
+.col-md-6 {
+    margin-top: 5%;
+}
+footer{
+  background: #2d2b2b;
+  padding-top: 5%;
+}
+.line{
+  background: white;
+  width: 85%;
+  height:0px;
+}
+
+ul{
+  color:white;
+  list-style: none;
+}
+img.app {
+    padding-top: 12%;
+    padding-bottom: 2%;
+}
+i{
+  color: white;
+  display: inline-block;
+  width: 15%;
+}
+.social {
+    padding-top: 100%;
+    margin-left: 20%;
+}
+.social2 {
+
+    margin-left: 20%;
+}
+h5{
+  margin-top: 1%;
+  color:white;
+  padding-left: 25%;
+}
+
+.col-xs-offset-3 {
+    margin-left: 10%;
+    padding-top: 7%;
+    margin-right: 10%;
+}
+.cua{
+  border: solid white 1px;
+  padding: 5%;
+  text-align: center;
+}
+.lle{
+  margin-top: 5%;
+}
+.iphone2{
+  width: 70%
+}
+.col-md-3.imagenes {
+    margin-left: 29%;
+    margin-top: -96%;
+    padding-bottom: 54%;
+
+}
+.copy{
+
+}
