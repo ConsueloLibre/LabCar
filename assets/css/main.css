@@ -113,6 +113,10 @@ label{
 .map {
     width: 61%;
     border: double 1vh;
+    margin-top: 1%;
+}
+img.col-md-offset-3.map2 {
+    width: 34%;
 }
 button.btn.btn-warning {
     width: 60%;
